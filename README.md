@@ -1,2 +1,0 @@
-# Qsp
-My Java Project
